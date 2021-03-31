@@ -1,2 +1,1 @@
-# CSE110-Lab1
-CSE 110 Lab 1 - VSCode, Markdown, and Git Part 1
+My favorite programming language is Java because it is the one that I have the most experience with.
