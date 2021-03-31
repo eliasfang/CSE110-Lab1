@@ -21,7 +21,8 @@ Some UCSD orgs that I am a part of:
 Go Tritons! 🔱
 
 ## Profile Picture
-![This is a photo of me!](elias.jpg)
+This is a photo of me!
+![](elias.jpg)
 
 ## Coding Stuff
 ### Experience
