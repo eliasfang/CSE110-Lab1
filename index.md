@@ -44,7 +44,7 @@ This summer, I will be a Digital Transformation and Technology Software Engineer
 
 #### Tala Security
 
-Last summer, I interned with Tala Security and helped develop a Google Chrome extension that could detect various web and fingerprint trackers.
+Last summer, I interned with **Tala Security** and developed a Google Chrome extension that could detect various web and fingerprint trackers.
 
 ### Projects
 
