@@ -87,13 +87,13 @@ Wise words from wise people 🦉
 
 Here are the Markdown features that I've included in this User Page:
 
-[X] Pictures
-[X] Links
-[X] Headings
-[X] Styled text
-[X] Quoted text
-[X] Quoted code
-[X] Section links
-[X] Relative links
-[X] Lists
-[X] Task lists
+- [X] Pictures
+- [X] Links
+- [X] Headings
+- [X] Styled text
+- [X] Quoted text
+- [X] Quoted code
+- [X] Section links
+- [X] Relative links
+- [X] Lists
+- [X] Task lists
